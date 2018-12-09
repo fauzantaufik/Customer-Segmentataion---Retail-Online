@@ -22,7 +22,7 @@ Technique used to answar all of this question :
 	b.Frequency (How often transactions of Customers)
 	c.MonetaryValue (Total Transaction of Customer) 
 	d.Tenure (How long our Customer be our Customer)
-3. Kmeans
-4. Relative Importance Matriks : to Evaluate The Performance of Our Clustering/Grouping
+3. KMeans Algorithm
+4. Relative Importance Matriks : to Evaluate The Performance of Our Clustering/Grouping by KMeans
 
 Thank You hope you get Interest by the insight or the technique and the code, the code is commented.
