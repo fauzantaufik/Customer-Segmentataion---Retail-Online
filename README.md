@@ -22,4 +22,6 @@ Technique used to answar all of this question :
 	c.MonetaryValue (Total Transaction of Customer) 
 	d.Tenure (How long our Customer be our Customer)
 3. Kmeans
-4. Relative Importance Matriks : to Evaluate The Performance of Our Clustering/G
+4. Relative Importance Matriks : to Evaluate The Performance of Our Clustering/Grouping
+
+Thank You hope you get Interest by the insight or the technique and the code, the code is commented.
